@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleCalendar</string>
+    <string name="write_note">Write a note</string>
+    <string name="save">Save</string>
+    <string name="date">Date</string>
+    <string name="note">No note</string>
+</resources>
