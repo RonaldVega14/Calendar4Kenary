@@ -29,13 +29,13 @@ public class MainActivity extends AppCompatActivity {
         floatingActionButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-               // addNote();
+                addNote();
             }
         });
         mCalendarView.setOnDayClickListener(new OnDayClickListener() {
             @Override
             public void onDayClick(EventDay eventDay) {
-                //previewNote(eventDay);
+                previewNote(eventDay);
             }
         });
     }

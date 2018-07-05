@@ -15,7 +15,7 @@ public class MyEventDay extends EventDay implements Parcelable {
         this.mNote = mNote;
     }
 
-    public String getmNote() {
+    public String getNote() {
         return mNote;
     }
 
